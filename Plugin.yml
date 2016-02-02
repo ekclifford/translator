@@ -1,1 +1,10 @@
-
+name: Translator
+main: com.ekclifford.Main.Main
+version: 1.0
+commands:
+  english:
+    description: Translate Dutch to English
+    permission: translate.use
+  dutch:
+    description: Translate English to Dutch
+    permission: translate.use
